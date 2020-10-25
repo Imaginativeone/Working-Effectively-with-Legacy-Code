@@ -1,0 +1,31 @@
+- [ ] Part I: The Mechanics of Change
+	- [ ] Chapter 1: Changing Software
+	- [ ] Chapter 2: Working with Feedback
+	- [ ] Chapter 3: Sensing and Separation
+	- [ ] Chapter 4: The Seam Model
+	- [ ] Chapter 5: Tools
+- [ ] Part II: Changing Software
+	- [ ] Chapter 6: I Don’t Have Much Time and I Have to Change It
+	- [ ] Chapter 7: It Takes Forever to Make a Change
+	- [ ] Chapter 8: How Do I Add a Feature?
+	- [ ] Chapter 9: I Can’t Get This Class into a Test Harness
+	- [ ] Chapter 10: I Can’t Run This Method in a Test Harness
+	- [ ] Chapter 11: I Need to Make a Change. What Methods Should I Test?
+	- [ ] Chapter 12: I Need to Make Many Changes in One Area. Do I Have to Break Dependencies for All the Classes Involved?
+	- [ ] Chapter 13: I Need to Make a Change, but I Don’t Know What Tests to Write
+	- [ ] Chapter 14: Dependencies on Libraries Are Killing Me
+	- [ ] Chapter 15: My Application Is All API Calls
+	- [ ] Chapter 16: I Don’t Understand the Code Well Enough to Change It
+	- [ ] Chapter 17: My Application Has No Structure
+	- [ ] Chapter 18: My Test Code Is in the Way
+	- [ ] Chapter 19: My Project Is Not Object Oriented. How Do I Make Safe Changes?
+	- [ ] Chapter 20: This Class Is Too Big and I Don’t Want It to Get Any Bigger
+	- [ ] Chapter 21: I’m Changing the Same Code All Over the Place
+	- [ ] Chapter 22: I Need to Change a Monster Method and I Can’t Write Tests for It
+	- [ ] Chapter 23: How Do I Know That I’m Not Breaking Anything?
+	- [ ] Chapter 24: We Feel Overwhelmed. It Isn’t Going to Get Any Better
+- [ ] Part III: Dependency-Breaking Techniques
+	- [ ] Chapter 25: Dependency-Breaking Techniques
+	- [ ] Appendix: Refactoring
+	- [ ] Glossary
+	- [ ] Index
