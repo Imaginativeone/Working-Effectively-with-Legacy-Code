@@ -1,5 +1,10 @@
 - [ ] Part I: The Mechanics of Change
 	- [ ] Chapter 1: Changing Software
+		- [ ] Four Reasons to Change Software
+			- [ ] Adding a Feature
+			- [ ] Fixing a Bug
+			- [ ] Improving the Design
+			- [ ] Optimizing Resource Usage
 	- [ ] Chapter 2: Working with Feedback
 	- [ ] Chapter 3: Sensing and Separation
 	- [ ] Chapter 4: The Seam Model
