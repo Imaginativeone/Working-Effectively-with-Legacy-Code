@@ -53,12 +53,12 @@
 		- [ ] **The Case of the "Helpful Language Feature**
 		- [ ] **The Case of the Undetectable Side Effect**
 	- [ ] Chapter 11: I Need to Make a Change. What Methods Should I Test?
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
+		- [ ] **Reasoning About Effects**
+		- [ ] **Reasoning Forward**
+		- [ ] **Effect Propagation**
+		- [ ] **Tools for Effect Reasoning**
+		- [ ] **Learning from Effect Analysis**
+		- [ ] **Simplifying Effect Sketches**
 	- [ ] Chapter 12: I Need to Make Many Changes in One Area. Do I Have to Break Dependencies for All the Classes Involved?
 		- [ ] - [ ] ****
 		- [ ] - [ ] ****
