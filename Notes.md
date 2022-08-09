@@ -37,7 +37,17 @@
 		- [ ] **Breaking Dependencies**
 		- [ ] **Summary**
 	- [ ] Chapter 8: How Do I Add a Feature?
+		- [ ] **Test-Driven Development (TDD)**
+		- [ ] **Programming By Difference**
+		- [ ] **Summary**
 	- [ ] Chapter 9: I Can’t Get This Class into a Test Harness
+		- [ ] **The Case of the Irritating Parameter**
+		- [ ] **The Case of the Hidden Dependency**
+		- [ ] **The Case of the Construction Blob**
+		- [ ] **The Case of the Irritating Global Dependency**
+		- [ ] **The Case of the Horrible Include Dependencies**
+		- [ ] **The Case of the Onion Parameter**
+		- [ ] **The Case of the Aliased Parameter**
 	- [ ] Chapter 10: I Can’t Run This Method in a Test Harness
 	- [ ] Chapter 11: I Need to Make a Change. What Methods Should I Test?
 	- [ ] Chapter 12: I Need to Make Many Changes in One Area. Do I Have to Break Dependencies for All the Classes Involved?
