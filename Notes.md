@@ -32,6 +32,10 @@
 		- [ ] **Wrap Class**
 		- [ ] **Summary**
 	- [ ] Chapter 7: It Takes Forever to Make a Change
+		- [ ] **Understanding**
+		- [ ] **Lag Time**
+		- [ ] **Breaking Dependencies**
+		- [ ] **Summary**
 	- [ ] Chapter 8: How Do I Add a Feature?
 	- [ ] Chapter 9: I Can’t Get This Class into a Test Harness
 	- [ ] Chapter 10: I Can’t Run This Method in a Test Harness
