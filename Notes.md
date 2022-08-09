@@ -20,6 +20,10 @@
 		- [ ] **Seams**
 		- [ ] **Seam Types**
 	- [ ] Chapter 5: Tools
+		- [ ] **Automated Refactoring Tools 045**
+		- [ ] **Mock Objects**
+		- [ ] **Unit-Testing Harnesses**
+		- [ ] **General Test Harnesses**
 - [ ] Part II: Changing Software
 	- [ ] Chapter 6: I Don’t Have Much Time and I Have to Change It
 	- [ ] Chapter 7: It Takes Forever to Make a Change
