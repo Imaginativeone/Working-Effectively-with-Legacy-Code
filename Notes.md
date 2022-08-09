@@ -60,17 +60,18 @@
 		- [ ] **Learning from Effect Analysis**
 		- [ ] **Simplifying Effect Sketches**
 	- [ ] Chapter 12: I Need to Make Many Changes in One Area. Do I Have to Break Dependencies for All the Classes Involved?
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
+		- [ ] **Interception Points**
+		- [ ] **Judging Design with Pinch Points**
+		- [ ] **Pinch Point Traps**
 	- [ ] Chapter 13: I Need to Make a Change, but I Don’t Know What Tests to Write
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
+		- [ ] **Characterizing Tests**
+		- [ ] **Characterizing Classes**
+		- [ ] **Targeted Testing**
+		- [ ] **A Heuristic for Writing Characterization Tests**
 	- [ ] Chapter 14: Dependencies on Libraries Are Killing Me
 	- [ ] Chapter 15: My Application Is All API Calls
 	- [ ] Chapter 16: I Don’t Understand the Code Well Enough to Change It
-		- [ ] - [ ] ****
+		- [ ] - [ ] **Notes/Sketching**
 		- [ ] - [ ] ****
 		- [ ] - [ ] ****
 		- [ ] - [ ] ****
