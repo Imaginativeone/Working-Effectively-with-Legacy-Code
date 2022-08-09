@@ -53,11 +53,27 @@
 		- [ ] **The Case of the "Helpful Language Feature**
 		- [ ] **The Case of the Undetectable Side Effect**
 	- [ ] Chapter 11: I Need to Make a Change. What Methods Should I Test?
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
 	- [ ] Chapter 12: I Need to Make Many Changes in One Area. Do I Have to Break Dependencies for All the Classes Involved?
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
 	- [ ] Chapter 13: I Need to Make a Change, but I Don’t Know What Tests to Write
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
 	- [ ] Chapter 14: Dependencies on Libraries Are Killing Me
 	- [ ] Chapter 15: My Application Is All API Calls
 	- [ ] Chapter 16: I Don’t Understand the Code Well Enough to Change It
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
 	- [ ] Chapter 17: My Application Has No Structure
 	- [ ] Chapter 18: My Test Code Is in the Way
 	- [ ] Chapter 19: My Project Is Not Object Oriented. How Do I Make Safe Changes?
