@@ -49,6 +49,9 @@
 		- [ ] **The Case of the Onion Parameter**
 		- [ ] **The Case of the Aliased Parameter**
 	- [ ] Chapter 10: I Can’t Run This Method in a Test Harness
+		- [ ] **The Case of the Hidden Method**
+		- [ ] **The Case of the "Helpful Language Feature**
+		- [ ] **The Case of the Undetectable Side Effect**
 	- [ ] Chapter 11: I Need to Make a Change. What Methods Should I Test?
 	- [ ] Chapter 12: I Need to Make Many Changes in One Area. Do I Have to Break Dependencies for All the Classes Involved?
 	- [ ] Chapter 13: I Need to Make a Change, but I Don’t Know What Tests to Write
