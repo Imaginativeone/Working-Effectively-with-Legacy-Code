@@ -5,7 +5,8 @@
 			- [ ] Fixing a Bug
 			- [ ] Improving the Design
 			- [ ] Optimizing Resource Usage
-		- [ ] **Adding Features and Fixing Bugs**
+		- [ ] **Risky Change**
+			- [ ] **Adding Features and Fixing Bugs**
 ```Behavior is the most important thing about software. It is what users depend on. Users like it when we add behavior (provided it is what they really wanted), but if we change or remove behavior they depend on (introduce bugs), they stop trusting us.```
 	- [ ] Chapter 2: Working with Feedback
 	- [ ] Chapter 3: Sensing and Separation
