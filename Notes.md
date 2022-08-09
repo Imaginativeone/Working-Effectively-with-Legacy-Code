@@ -14,7 +14,11 @@
 		- [ ] **Test Coverings**
 		- [ ] **The Legacy Code Change Algorithm**
 	- [ ] Chapter 3: Sensing and Separation
+		- [ ] **Faking Collaborators**
 	- [ ] Chapter 4: The Seam Model
+		- [ ] **A Huge Sheet of Text**
+		- [ ] **Seams**
+		- [ ] **Seam Types**
 	- [ ] Chapter 5: Tools
 - [ ] Part II: Changing Software
 	- [ ] Chapter 6: I Don’t Have Much Time and I Have to Change It
