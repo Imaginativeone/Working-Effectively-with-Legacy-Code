@@ -26,6 +26,11 @@
 		- [ ] **General Test Harnesses**
 - [ ] Part II: Changing Software
 	- [ ] Chapter 6: I Don’t Have Much Time and I Have to Change It
+		- [ ] **Sprout Method**
+		- [ ] **Sprout Class**
+		- [ ] **Wrap Method**
+		- [ ] **Wrap Class**
+		- [ ] **Summary**
 	- [ ] Chapter 7: It Takes Forever to Make a Change
 	- [ ] Chapter 8: How Do I Add a Feature?
 	- [ ] Chapter 9: I Can’t Get This Class into a Test Harness
