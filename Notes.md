@@ -75,12 +75,36 @@
 		- [ ] - [ ] ****
 		- [ ] - [ ] ****
 	- [ ] Chapter 17: My Application Has No Structure
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
 	- [ ] Chapter 18: My Test Code Is in the Way
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
 	- [ ] Chapter 19: My Project Is Not Object Oriented. How Do I Make Safe Changes?
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
 	- [ ] Chapter 20: This Class Is Too Big and I Don’t Want It to Get Any Bigger
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
 	- [ ] Chapter 21: I’m Changing the Same Code All Over the Place
+		- [ ] - [ ] ****
 	- [ ] Chapter 22: I Need to Change a Monster Method and I Can’t Write Tests for It
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
 	- [ ] Chapter 23: How Do I Know That I’m Not Breaking Anything?
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
+		- [ ] - [ ] ****
 	- [ ] Chapter 24: We Feel Overwhelmed. It Isn’t Going to Get Any Better
 - [ ] Part III: Dependency-Breaking Techniques
 	- [ ] Chapter 25: Dependency-Breaking Techniques
