@@ -71,14 +71,14 @@
 	- [ ] Chapter 14: Dependencies on Libraries Are Killing Me
 	- [ ] Chapter 15: My Application Is All API Calls
 	- [ ] Chapter 16: I Don’t Understand the Code Well Enough to Change It
-		- [ ] - [ ] **Notes/Sketching**
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
+		- [ ] **Notes/Sketching**
+		- [ ] **Listing Markup**
+		- [ ] **Scratch Refactoring**
+		- [ ] **Delete Unused Code**
 	- [ ] Chapter 17: My Application Has No Structure
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
+		- [ ] **Telling the Story of the System**
+		- [ ] **Naked CRC**
+		- [ ] **Conversation Scrutiny**
 	- [ ] Chapter 18: My Test Code Is in the Way
 		- [ ] - [ ] ****
 		- [ ] - [ ] ****
