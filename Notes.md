@@ -9,6 +9,10 @@
 			- [ ] **Adding Features and Fixing Bugs**
 ```Behavior is the most important thing about software. It is what users depend on. Users like it when we add behavior (provided it is what they really wanted), but if we change or remove behavior they depend on (introduce bugs), they stop trusting us.```
 	- [ ] Chapter 2: Working with Feedback
+		- [ ] **What is Unit Testing?**
+		- [ ] **Higher-Level Testing**
+		- [ ] **Test Coverings**
+		- [ ] **The Legacy Code Change Algorithm**
 	- [ ] Chapter 3: Sensing and Separation
 	- [ ] Chapter 4: The Seam Model
 	- [ ] Chapter 5: Tools
