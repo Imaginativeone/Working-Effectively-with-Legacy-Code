@@ -128,12 +128,11 @@
 		- [ ] **Push Down Dependency 392**
 		- [ ] **Replace Function with Function Pointer 396**
 		- [ ] **Replace Global Reference with Getter 399**
-		- [ ] ****
-		- [ ] ****
-		- [ ] ****
-		- [ ] ****
-- [ ] Part III: Dependency-Breaking Techniques
-	- [ ] Chapter 25: Dependency-Breaking Techniques
-	- [ ] Appendix: Refactoring
-	- [ ] Glossary
-	- [ ] Index
+		- [ ] **Subclass and Override Method 401**
+		- [ ] **Supersede Instance Variable 404**
+		- [ ] **Template Redefinition 408**
+		- [ ] **Text Redefinition 412**
+	- [ ] Appendix: Refactoring 415
+		- [ ] Extract Method 415
+	- [ ] Glossary 421
+	- [ ] Index 423
