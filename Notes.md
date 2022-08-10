@@ -100,20 +100,22 @@
 		- [ ] **Tackling Monsters with Automated Refactoring Support 294**
 		- [ ] **The Manual Refactoring Challenge 297**
 		- [ ] **Strategy 304**
-	- [ ] Chapter 23: How Do I Know That I’m Not Breaking Anything?
+	- [ ] Chapter 23: How Do I Know That I’m Not Breaking Anything? 309
 		- [ ] **Hyperaware Editing 310**
 		- [ ] **Single-Goal Editing 311**
 		- [ ] **Preserve Signatures 312**
 		- [ ] **Lean on the Compiler 315**
-	- [ ] Chapter 24: We Feel Overwhelmed. It Isn’t Going to Get Any Better
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
+	- [ ] Chapter 24: We Feel Overwhelmed. It Isn’t Going to Get Any Better 319
+- PART III: Dependency-Breaking Techniques 323
+	- [ ] Chapter 25: Dependency-Breaking Techniques 325
+		- [ ] **Adapt Parameter 326**
+		- [ ] **Break Out Method Object 330**
+		- [ ] **Definition Completion 337**
+		- [ ] **Encapsulate Global References 339**
+		- [ ] ****
+		- [ ] ****
+		- [ ] ****
+		- [ ] ****
 		- [ ] - [ ] ****
 		- [ ] - [ ] ****
 		- [ ] - [ ] ****
