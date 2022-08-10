@@ -94,17 +94,17 @@
 		- [ ] **Moving Forward 265**
 		- [ ] **After Extract Class 268**
 	- [ ] Chapter 21: I’m Changing the Same Code All Over the Place
-		- [ ] - [ ] ****
-	- [ ] Chapter 22: I Need to Change a Monster Method and I Can’t Write Tests for It
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
+		- [ ] **First Steps 269**
+	- [ ] Chapter 22: I Need to Change a Monster Method and I Can’t Write Tests for It 289
+		- [ ] **Varieties of Monsters 290**
+		- [ ] **Tackling Monsters with Automated Refactoring Support 294**
+		- [ ] **The Manual Refactoring Challenge 297**
+		- [ ] **Strategy 304**
 	- [ ] Chapter 23: How Do I Know That I’m Not Breaking Anything?
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
+		- [ ] **Hyperaware Editing 310**
+		- [ ] **Single-Goal Editing 311**
+		- [ ] **Preserve Signatures 312**
+		- [ ] **Lean on the Compiler 315**
 	- [ ] Chapter 24: We Feel Overwhelmed. It Isn’t Going to Get Any Better
 		- [ ] - [ ] ****
 		- [ ] - [ ] ****
