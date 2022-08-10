@@ -80,20 +80,19 @@
 		- [ ] **Naked CRC**
 		- [ ] **Conversation Scrutiny**
 	- [ ] Chapter 18: My Test Code Is in the Way
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
+		- [ ] **Class Naming Conventions 227**
+		- [ ] **Test Location 228**
 	- [ ] Chapter 19: My Project Is Not Object Oriented. How Do I Make Safe Changes?
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
+		- [ ] **An Easy Case 232**
+		- [ ] **A Hard Case 232**
+		- [ ] **Adding New Behavior 236**
+		- [ ] **Taking Advantage of Object Orientation 239**
+		- [ ] **It's All Object Oriented**
 	- [ ] Chapter 20: This Class Is Too Big and I Don’t Want It to Get Any Bigger
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
+		- [ ] **Seeing Responsibilities 249**
+		- [ ] **Other Techniques 265**
+		- [ ] **Moving Forward 265**
+		- [ ] **After Extract Class 268**
 	- [ ] Chapter 21: I’m Changing the Same Code All Over the Place
 		- [ ] - [ ] ****
 	- [ ] Chapter 22: I Need to Change a Monster Method and I Can’t Write Tests for It
