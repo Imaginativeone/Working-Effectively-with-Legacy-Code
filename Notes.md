@@ -9,6 +9,7 @@
 # text in gray
 @@ text in purple (and bold)@@
 ```
+[Stack Overflow](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)
 - [ ] Part I: The Mechanics of Change
 	- [ ] Chapter 1: Changing Software - 003
 		- [ ] **Four Reasons to Change Software**
