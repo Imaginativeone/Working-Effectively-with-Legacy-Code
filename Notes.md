@@ -106,32 +106,32 @@
 		- [ ] **Preserve Signatures 312**
 		- [ ] **Lean on the Compiler 315**
 	- [ ] Chapter 24: We Feel Overwhelmed. It Isn’t Going to Get Any Better 319
-- PART III: Dependency-Breaking Techniques 323
+- [ ] PART III: Dependency-Breaking Techniques 323
 	- [ ] Chapter 25: Dependency-Breaking Techniques 325
 		- [ ] **Adapt Parameter 326**
 		- [ ] **Break Out Method Object 330**
 		- [ ] **Definition Completion 337**
 		- [ ] **Encapsulate Global References 339**
+		- [ ] **Expose Static Method 345**
+		- [ ] **Extract and Override Call 348**
+		- [ ] **Extract and Override Factory Method 350**
+		- [ ] **Extract and Override Getter 352**
 		- [ ] ****
 		- [ ] ****
 		- [ ] ****
 		- [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
-		- [ ] - [ ] ****
+		- [ ] ****
+		- [ ] ****
+		- [ ] ****
+		- [ ] ****
+		- [ ] ****
+		- [ ] ****
+		- [ ] ****
+		- [ ] ****
+		- [ ] ****
+		- [ ] ****
+		- [ ] ****
+		- [ ] ****
 - [ ] Part III: Dependency-Breaking Techniques
 	- [ ] Chapter 25: Dependency-Breaking Techniques
 	- [ ] Appendix: Refactoring
