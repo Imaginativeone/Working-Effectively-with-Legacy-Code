@@ -123,11 +123,11 @@
 		- [ ] **Link Substitution 377**
 		- [ ] **Parameterize Constructor 379**
 		- [ ] **Parameterize Method 383**
-		- [ ] ****
-		- [ ] ****
-		- [ ] ****
-		- [ ] ****
-		- [ ] ****
+		- [ ] **Primitiveize Parameter 385**
+		- [ ] **Pull Up Feature 388**
+		- [ ] **Push Down Dependency 392**
+		- [ ] **Replace Function with Function Pointer 396**
+		- [ ] **Replace Global Reference with Getter 399**
 		- [ ] ****
 		- [ ] ****
 		- [ ] ****
