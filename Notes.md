@@ -116,13 +116,13 @@
 		- [ ] **Extract and Override Call 348**
 		- [ ] **Extract and Override Factory Method 350**
 		- [ ] **Extract and Override Getter 352**
-		- [ ] ****
-		- [ ] ****
-		- [ ] ****
-		- [ ] ****
-		- [ ] ****
-		- [ ] ****
-		- [ ] ****
+		- [ ] **Extract Implementer 356**
+		- [ ] **Extract Interface 362**
+		- [ ] **Introduce Instance Delegator 369**
+		- [ ] **Introduce Static Setter 372**
+		- [ ] **Link Substitution 377**
+		- [ ] **Parameterize Constructor 379**
+		- [ ] **Parameterize Method 383**
 		- [ ] ****
 		- [ ] ****
 		- [ ] ****
