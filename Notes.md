@@ -15,6 +15,9 @@
 # text in gray
 @@ text in purple (and bold)@@
 ```
+[![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
+[![](https://img.shields.io/badge/mech1-Part%20I%3A%20The%20Mechanics%20of%20Change-yellow)](https://img.shields.io/badge/mech1-Part%20I%3A%20The%20Mechanics%20of%20Change-yellow)
+
 [Stack Overflow](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)
 - [ ] ![#f03c15](https://via.placeholder.com/15/ffeb3b/ffeb3b.png) Part I: The Mechanics of Change
 	- [ ] Chapter 1: Changing Software - 003
