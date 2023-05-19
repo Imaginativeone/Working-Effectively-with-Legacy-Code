@@ -12,7 +12,7 @@
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `#c5f015`
 ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `#1589F0`
 
-# $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+This is *red*{style="color: red"}.
 
 ```diff
 - text in red
@@ -39,7 +39,7 @@ https://stackoverflow.com/questions/35465557/how-to-apply-color-on-text-in-markd
 
 [Stack Overflow](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)
 - [ ] ![#f03c15](https://via.placeholder.com/15/ffeb3b/ffeb3b.png) Part I: The Mechanics of Change
-	- [ ] Chapter 1: Changing Software - 003
+	- [ ] ![#ff9333](https://via.placeholder.com/15/ff9333/ff9333.png) Chapter 1: Changing Software - 003
 		- [ ] ```diff ! text in orange Hello```
 		- [ ] **Four Reasons to Change Software**
 			- [ ] Adding a Feature
