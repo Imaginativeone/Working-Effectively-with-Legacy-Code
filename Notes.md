@@ -4,10 +4,16 @@
 [![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
 [![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
 
-<span style="color:blue">some *blue* text</span>
-- ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`
-- ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `#c5f015`
-- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `#1589F0`
+- <span style="color:blue">some *blue* text</span>
+- <span style="color:blue">some *This is Blue italic.* text</span>
+- `red color`
+	
+![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `#c5f015`
+![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `#1589F0`
+
+# $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+
 ```diff
 - text in red
 + text in green
@@ -15,12 +21,26 @@
 # text in gray
 @@ text in purple (and bold)@@
 ```
+
+```diff
+- A
++ B
+! C
+# D
+@@ text in purple (and bold)@@
+```
+
+:warning:
+
+https://stackoverflow.com/questions/35465557/how-to-apply-color-on-text-in-markdown
+
 [![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
 [![](https://img.shields.io/badge/mech1-Part%20I%3A%20The%20Mechanics%20of%20Change-yellow)](https://img.shields.io/badge/mech1-Part%20I%3A%20The%20Mechanics%20of%20Change-yellow)
 
 [Stack Overflow](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)
 - [ ] ![#f03c15](https://via.placeholder.com/15/ffeb3b/ffeb3b.png) Part I: The Mechanics of Change
 	- [ ] Chapter 1: Changing Software - 003
+		- [ ] ```diff ! text in orange Hello```
 		- [ ] **Four Reasons to Change Software**
 			- [ ] Adding a Feature
 			- [ ] Fixing a Bug
