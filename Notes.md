@@ -50,8 +50,8 @@ https://stackoverflow.com/questions/35465557/how-to-apply-color-on-text-in-markd
 		- [ ] **Risky Change**
 			- [ ] **Adding Features and Fixing Bugs**
 				- The software behaves one way, and the users say that the system needs to do something else also.
+				- Behavior is the most important thing about software. It is what users depend on. Users like it when we add behavior (provided it is what they really wanted), but if we change or remove behavior they depend on (introduce bugs), they stop trusting us.
 			- [ ] **Improving Design**
-```Behavior is the most important thing about software. It is what users depend on. Users like it when we add behavior (provided it is what they really wanted), but if we change or remove behavior they depend on (introduce bugs), they stop trusting us.```
 	- [ ] ![#ff9333](https://via.placeholder.com/15/ff9333/ff9333.png) Chapter 2: Working with Feedback..........009
 		- [ ] **What is Unit Testing?**
 		- [ ] **Higher-Level Testing**
