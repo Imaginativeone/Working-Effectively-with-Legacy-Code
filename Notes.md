@@ -40,7 +40,8 @@ https://stackoverflow.com/questions/35465557/how-to-apply-color-on-text-in-markd
 [Stack Overflow](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)
 - [ ] ![#f03c15](https://via.placeholder.com/15/ffeb3b/ffeb3b.png) Part I: The Mechanics of Change
 	- [ ] ![#ff9333](https://via.placeholder.com/15/ff9333/ff9333.png) Chapter 1: Changing Software - 003
-		- [ ] ```diff ! text in orange Hello```
+		- there are ways of changing code that make life difficult, and there are ways to make it much easier.
+		- ...we can broaden the discussion a bit and talk about how to deal with code in the thorniest of situations.
 		- [ ] **Four Reasons to Change Software**
 			- [ ] Adding a Feature
 			- [ ] Fixing a Bug
@@ -48,6 +49,8 @@ https://stackoverflow.com/questions/35465557/how-to-apply-color-on-text-in-markd
 			- [ ] Optimizing Resource Usage
 		- [ ] **Risky Change**
 			- [ ] **Adding Features and Fixing Bugs**
+				- The software behaves one way, and the users say that the system needs to do something else also.
+			- [ ] **Improving Design**
 ```Behavior is the most important thing about software. It is what users depend on. Users like it when we add behavior (provided it is what they really wanted), but if we change or remove behavior they depend on (introduce bugs), they stop trusting us.```
 	- [ ] ![#ff9333](https://via.placeholder.com/15/ff9333/ff9333.png) Chapter 2: Working with Feedback..........009
 		- [ ] **What is Unit Testing?**
