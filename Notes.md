@@ -42,7 +42,7 @@ https://stackoverflow.com/questions/35465557/how-to-apply-color-on-text-in-markd
 	- [ ] ![#ff9333](https://via.placeholder.com/15/ff9333/ff9333.png) Chapter 1: Changing Software - 003
 		- there are ways of changing code that make life difficult, and there are ways to make it much easier.
 		- ...we can broaden the discussion a bit and talk about how to deal with code in the thorniest of situations.
-		- [ ] **Four Reasons to Change Software**
+		- [ ] ![#00B431](https://via.placeholder.com/15/00B431/00B431.png) **Four Reasons to Change Software**
 			- [ ] Adding a Feature
 			- [ ] Fixing a Bug
 			- [ ] Improving the Design
